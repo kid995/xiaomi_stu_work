@@ -1,0 +1,1 @@
+'include ":app"' | Out-File settings.gradle -Encoding ASCII
