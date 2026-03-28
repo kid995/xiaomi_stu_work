@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">小米便签</string>
+    <string name="new_note">新建便签</string>
+    <string name="edit_note">编辑便签</string>
+    <string name="save">保存</string>
+    <string name="delete">删除</string>
+    <string name="cancel">取消</string>
+    <string name="delete_note">删除便签</string>
+    <string name="delete_confirm">确定要删除此便签吗？</string>
+    <string name="note_saved">便签已保存</string>
+    <string name="no_notes">暂无便签，点击右下角按钮添加</string>
+    <string name="hint_title">标题</string>
+    <string name="hint_content">开始记录...</string>
+    <string name="add_note">添加便签</string>
+    <string name="untitled">（无标题）</string>
+</resources>
